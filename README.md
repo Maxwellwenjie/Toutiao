@@ -28,7 +28,7 @@
 
 3. 评论
 
-   ![1531532902287](http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
+ (http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
 
 4. 站内信
 
