@@ -10,7 +10,7 @@
 
 ## 访问地址  
 
-[github地址](https://github.com/staringOrz/toutiaoNews)
+[github地址](https://github.com/Maxwellwenjie/Toutiao)
 
 [项目展示](http://119.29.20.88:8080/)
 
@@ -133,7 +133,7 @@
 
 ------
 
-**Author:邓喜健**
+**Author:刘文杰**
 
-联系：923124803@qq.com
+联系：1208725256@qq.com
 
