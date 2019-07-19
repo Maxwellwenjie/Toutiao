@@ -20,11 +20,11 @@
 
 1. 首页
 
-   ![1531532751582](putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
+  (putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
 
 2. 登录注册
 
-   ![1531532787746](putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
+  (putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
 
 3. 评论
 
@@ -32,13 +32,13 @@
 
 4. 站内信
 
-   ![1531532951116](http://putdpmfd0.bkt.clouddn.com/6963082a9294400b9799b825fdb8b7f5.PNG)
+   (http://putdpmfd0.bkt.clouddn.com/6963082a9294400b9799b825fdb8b7f5.PNG)
 
 5. 站内信详情
 
     
 
-   ![1531532999704](http://putdpmfd0.bkt.clouddn.com/1a4f2aac4e984d0badbf0cbf8393fc98.PNG)
+   (http://putdpmfd0.bkt.clouddn.com/1a4f2aac4e984d0badbf0cbf8393fc98.PNG)
 
    
 
