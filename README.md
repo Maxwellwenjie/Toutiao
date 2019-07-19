@@ -20,15 +20,15 @@
 
 1. 首页
 
-  (putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
+   (http://putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
 
 2. 登录注册
 
-  (putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
+   (http://putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
 
 3. 评论
 
- (http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
+   (http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
 
 4. 站内信
 
