@@ -20,25 +20,25 @@
 
 1. 首页
 
-   ![1531532751582](http://pbu6wqsbp.bkt.clouddn.com/%E9%A6%96%E9%A1%B5.png)
+   ![1531532751582](putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
 
 2. 登录注册
 
-   ![1531532787746](http://pbu6wqsbp.bkt.clouddn.com/%E7%99%BB%E5%BD%95.png)
+   ![1531532787746](putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
 
 3. 评论
 
-   ![1531532902287](http://pbu6wqsbp.bkt.clouddn.com/%E8%AF%84%E8%AE%BA.png)
+   ![1531532902287](http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
 
 4. 站内信
 
-   ![1531532951116](http://pbu6wqsbp.bkt.clouddn.com/%E7%AB%99%E5%86%85%E4%BF%A1.png)
+   ![1531532951116](http://putdpmfd0.bkt.clouddn.com/6963082a9294400b9799b825fdb8b7f5.PNG)
 
 5. 站内信详情
 
     
 
-   ![1531532999704](http://pbu6wqsbp.bkt.clouddn.com/%E7%AB%99%E5%86%85%E4%BF%A1%E8%AF%A6%E6%83%85.png)
+   ![1531532999704](http://putdpmfd0.bkt.clouddn.com/1a4f2aac4e984d0badbf0cbf8393fc98.PNG)
 
    
 
