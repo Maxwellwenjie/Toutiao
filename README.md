@@ -12,7 +12,7 @@
 
 [github地址](https://github.com/Maxwellwenjie/Toutiao)
 
-[项目展示](http://119.29.20.88:8080/)
+[项目展示](./assets/index.PNG)
 
 ------
 
@@ -20,15 +20,15 @@
 
 1. 首页
 
-   (http://putdpmfd0.bkt.clouddn.com/6afca78d53b14324b79c455026d7ef31.PNG)
+   ![image](./assets/index.PNG)
 
 2. 登录注册
 
-   (http://putdpmfd0.bkt.clouddn.com/315c0615351a4a72a72f089d455c677e.PNG)
+   ![image](./assets/login.PNG)
 
 3. 评论
 
-   (http://putdpmfd0.bkt.clouddn.com/fc766277720b4ffe9239fdc29fbee59c.PNG)
+   ![image](./assets/comment.PNG)
 
 4. 站内信
 
